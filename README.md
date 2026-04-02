@@ -38,16 +38,16 @@
 > 1학년 설계과제 당시 작성한 단계별 로직 설계안입니다. 
 
 ### Step 1. 시작 및 사용자 인식
-![Flowchart 1](<img width="1426" height="863" alt="image" src="https://github.com/user-attachments/assets/c661757e-0dba-4457-9c59-b2aac331c99a" />)
+![Flowchart 1](<img width="713" height="431.5" alt="image" src="https://github.com/user-attachments/assets/c661757e-0dba-4457-9c59-b2aac331c99a" />)
 
 ### Step 2. 메뉴 탐색 및 펜 터치 판단
-![Flowchart 2](<img width="1232" height="868" alt="image" src="https://github.com/user-attachments/assets/abe8d76e-eaa7-4584-834e-3d0b97274bca" />)
-![Flowchart 3](<img width="1246" height="879" alt="image" src="https://github.com/user-attachments/assets/83b96e9a-250f-485a-8a7d-3b7a0a299909" />)
-![Flowchart 4](<img width="1289" height="863" alt="image" src="https://github.com/user-attachments/assets/6ca4d91c-c079-4f76-9d6a-f847de0c26d7" />)
+![Flowchart 2](<img width="616" height="434" alt="image" src="https://github.com/user-attachments/assets/abe8d76e-eaa7-4584-834e-3d0b97274bca" />)
+![Flowchart 3](<img width="623" height="439.5" alt="image" src="https://github.com/user-attachments/assets/83b96e9a-250f-485a-8a7d-3b7a0a299909" />)
+![Flowchart 4](<img width="644.5" height="431.5" alt="image" src="https://github.com/user-attachments/assets/6ca4d91c-c079-4f76-9d6a-f847de0c26d7" />)
 
 ### Step 3. 주문 확인 및 최종 결제
-![Flowchart 5](<img width="1183" height="857" alt="image" src="https://github.com/user-attachments/assets/a67a96fa-7f7b-4dba-9fa5-2ec58a38ac3d" />)
-![Flowchart 6](<img width="1652" height="838" alt="image" src="https://github.com/user-attachments/assets/f5946d17-fc73-4479-b703-3b61107b5bab" />)
+![Flowchart 5](<img width="591.5" height="857" alt="image" src="https://github.com/user-attachments/assets/a67a96fa-7f7b-4dba-9fa5-2ec58a38ac3d" />)
+![Flowchart 6](<img width="826" height="838" alt="image" src="https://github.com/user-attachments/assets/f5946d17-fc73-4479-b703-3b61107b5bab" />)
 
 </details>
 
@@ -60,7 +60,7 @@
   
 > 프로젝트 구현에 사용된 전체 블록 코드입니다. 각 기능별 모듈화와 블루투스 통신 로직이 포함되어 있습니다.
   
-![전체 블록](![Uploading blocks (1).png…]())
+![전체 블록](<img width="10711" height="11049" alt="blocks (1)" src="https://github.com/user-attachments/assets/451aae95-cc83-4ae2-9e9d-5936c8635149" />)
 </details>
 
 <br>
@@ -80,7 +80,7 @@
 
 ## 5. 시연 영상
 * **YouTube:** [최종 결과물 시연 동영상 바로가기](https://youtu.be/S_miodlxSKY)
-<img width="866" height="556" alt="image" src="https://github.com/user-attachments/assets/451d2300-35fb-4c11-8eb5-603b7d32cbbd" />
+<img width="433" height="283" alt="image" src="https://github.com/user-attachments/assets/451d2300-35fb-4c11-8eb5-603b7d32cbbd" />
 
 <br>
 
