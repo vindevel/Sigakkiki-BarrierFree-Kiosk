@@ -1,4 +1,4 @@
-<img width="10711" height="11049" alt="blocks (1)" src="https://github.com/user-attachments/assets/9ce575b7-f80e-4287-bed6-e05f248adba5" /><img width="10711" height="11049" alt="blocks (1)" src="https://github.com/user-attachments/assets/9ccda66a-df5d-4666-82e0-ae28b031d2f4" /># 시각키키 (Sigakkiki)
+# 시각키키 (Sigakkiki)
 시각장애인이 남의 도움없이 주문할 수 있는 장치
 
 2022.10. ~ 2022.11. (FEDEC 작품전시회 창의상)
